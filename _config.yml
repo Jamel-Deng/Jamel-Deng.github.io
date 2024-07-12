@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jamel Deng"
-  pronouns         : # example: "she/her"  
+  pronouns         : "He" 
   bio              : "You never lack the courage to start all over again."
   location         : "Hefei , China"
   employer         : "USTC"
@@ -48,8 +48,8 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  bluesky          : "jameldeng.bsky.social" # Replace this with you Bluesky username
+  facebook         : "Jamel Deng"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "PdameichJamel"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
