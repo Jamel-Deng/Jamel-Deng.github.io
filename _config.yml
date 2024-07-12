@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jamel Deng"
-  pronouns         : "He" 
+  pronouns         : # he
   bio              : "You never lack the courage to start all over again."
   location         : "Hefei , China"
   employer         : "USTC"
